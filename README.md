@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alina
-#### I am I'm a beginner Bioinformatician 
+#### I'm a beginner Bioinformatician 
 I'm passionate about **bioinformatics, machine learning, artificial intelligence, and programming.** I love exploring complex algorithms, analyzing data, and building exciting projects.
 
 Skills: Python / ML / NGS / HTML / R / git / GitHub
