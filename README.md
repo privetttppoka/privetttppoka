@@ -4,7 +4,7 @@ I'm passionate about **bioinformatics, machine learning, artificial intelligence
 
 Skills: Python / ML / NGS / HTML / R / git / GitHub
 
-- 🔭 I’m currently working on a bioinformatics project about the 3D structure of chromatin and the interactions between transcription factors and regulator . 
+- 🔭 I'm currently working on a bioinformatics project about the 3D structure of chromatin and the interactions between transcription factors and regulatory elements.
 - 🌱 I’m currently learning Bioinformatics algorithms, Deep learning and neural networks, Developing ML models  
 
 
