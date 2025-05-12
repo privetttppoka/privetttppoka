@@ -16,15 +16,6 @@ I'm a bioinformatics researcher with hands-on experience in **computational biol
 
 ---
 
-### 🚀 Current Projects
-
-- 🧠 Developing machine learning pipelines for **protein structure classification** based on sequence-derived features.  
-- 🔁 Exploring the **inverse folding problem**: generating amino acid sequences for given 3D structures using modern deep learning techniques.  
-- 🧬 Working with **cryo-EM data** to resolve the structure of transcription complexes and chromatin assemblies.  
-- ⚙️ Building reproducible workflows using Hydra and Python for ML experiments.
-
----
-
 ### 📚 Learning Goals
 
 - Deep learning architectures for biosequence and structural data  
